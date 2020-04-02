@@ -1,3 +1,11 @@
+This is a test
+
+- Copy contents of existing repo into a new repo
+```shell
+git push git@github.com:andrew-james-yoti/copy-dummy-server.git
+```
+
+## Dummy Server
 openssl req -newkey rsa:2048 -nodes -keyout key.pem -x509 -days 365 -out certificate.pem
 
 ## docker
